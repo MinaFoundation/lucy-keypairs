@@ -1,11 +1,1 @@
-{
-    "box_primitive": "xsalsa20poly1305",
-    "pw_primitive": "argon2i",
-    "nonce": "8CFo8E6RbByMwhSLv3653R3Nssn1AtwcAZDXigm",
-    "pwsalt": "B1mFqCJitiuzDe81weKdgftWGo1o",
-    "pwdiff": [
-        134217728,
-        6
-    ],
-    "ciphertext": "BKDzwBHXuqCo8B4fZEbWvPkmgDV5t2EXbttdw3WWBhWWF2APboozmbBBUDqkGPk8bsY8gFxLm"
-}
+EKFRBBpHUNywJEZHs9rewKvdWvjV497BPsdqDYYwLpCDQ7qoq1na
